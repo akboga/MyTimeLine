@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16281636708",
+    "firebase_url": "https://mytimeline-a551f.firebaseio.com",
+    "project_id": "mytimeline-a551f",
+    "storage_bucket": "mytimeline-a551f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16281636708:android:8c4846e3b6ec82b5113471",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.gui.mytimeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16281636708-kk9toflhnl1l8omt2qotbhrpo4jm1m7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZ6I4U-uAUq9oTwgJEgOPtnGTlZtvgoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16281636708-kk9toflhnl1l8omt2qotbhrpo4jm1m7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
